@@ -1,0 +1,6 @@
+20	maelk		10,50
+7	smoer		15,75
+12	franskbroed	25,00
+8 	rugbroed	17,75
+18	yoghurt		12,25
+2   Ymer        9,95
